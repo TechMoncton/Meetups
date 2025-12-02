@@ -7,12 +7,12 @@ A friendly, inclusive meetup for Moncton’s tech and developer community to con
 ## When and Where
 - **Regular meeting time**: First Friday of every month unless stated otherwise.  
 - **Start time**: 6:30 PM.  
-- **Venue**: **Venn Innovation, 770 St. George Boulevard**.  
+- **Venue**: [Venn Innovation, 770 St. George Boulevard](https://www.google.ca/maps/place/Venn+Innovation/@46.0843704,-64.8116575,17z/data=!3m1!4b1!4m6!3m5!1s0x4ca0b9396aa0ce8d:0x2ab3f8a8d17c244a!8m2!3d46.0843704!4d-64.8116575!16s%2Fg%2F11cry099th).  
 - **After meetup**: There is typically a meal and drinks at a nearby restaurant or pub after the meeting.
 
 ## Discord Hub
 **Join our main place to chat and hang out between meetups**  
-**Discord Invite**: **https://discord.gg/axYagWhk6Y**
+**Discord Invite**: [https://discord.gg/axYagWhk6Y](https://discord.gg/axYagWhk6Y)
 
 - **Primary community space** for announcements, casual conversation, event planning, and followups from talks.
 - Use the Discord to ask questions, share job posts, show projects, find collaborators, and organize ad hoc meetups.
