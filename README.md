@@ -10,8 +10,6 @@ A friendly, inclusive meetup for Moncton’s tech and developer community to con
 - **Venue**: **Venn Innovation, 770 St. George Boulevard**.  
 - **After meetup**: There is typically a meal and drinks at a nearby restaurant or pub after the meeting.
 
----
-
 ## Discord Hub
 **Join our main place to chat and hang out between meetups**  
 **Discord Invite**: **https://discord.gg/axYagWhk6Y**
@@ -27,8 +25,6 @@ A friendly, inclusive meetup for Moncton’s tech and developer community to con
 - **Format**: Short talks, lightning demos, show-and-tell, or open discussions led by local members.  
 - **Tone**: Casual, helpful, and community focused. Sessions are designed to be accessible to a range of experience levels.  
 - **Networking**: Time to meet others working on similar technologies or projects, plus the social portion after the meeting for food and drinks.  
-
----
 
 ## How to Participate
 - **Attend a meeting**: Come to Venn Innovation on the first Friday at 6:30 PM.  
