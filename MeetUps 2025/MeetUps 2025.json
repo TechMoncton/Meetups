@@ -1,0 +1,62 @@
+[
+  {
+    "date": "December 05, 2025",
+    "time": "06:30 PM",
+    "topic": "Part 2: Building a Dataflow AI Orchestration Tool",
+    "presentation": "Simon Gauvin"
+  },
+  {
+    "date": "November 07, 2025",
+    "time": "06:30 PM",
+    "topic": "How to build prototypes and battle procrastination",
+    "presentation": "Michael Go"
+  },
+  {
+    "date": "October 03, 2025",
+    "time": "06:00 PM",
+    "topic": "Exploring Bibin: A Visual Dataflow Language for AI",
+    "presentation": "Simon Gauvin"
+  },
+  {
+    "date": "September 05, 2025",
+    "time": "06:00 PM",
+    "topic": "How to Ace Your Technical Interviews",
+    "presentation": "Michael Go"
+  },
+  {
+    "date": "June 27, 2025",
+    "time": "06:00 PM",
+    "topic": "Nor'Easter Robot Combat Club",
+    "presentation": "Eric Robichaud"
+  },
+  {
+    "date": "May 30, 2025",
+    "time": "06:00 PM",
+    "topic": "Kubernetes",
+    "presentation": "Dave Waldrum"
+  },
+  {
+    "date": "April 25, 2025",
+    "time": "06:00 PM",
+    "topic": "Easter eggs that you made",
+    "presentation": "Michael Go"
+  },
+  {
+    "date": "March 28, 2025",
+    "time": "06:00 PM",
+    "topic": "Dev horror stories",
+    "presentation": "Michael Go"
+  },
+  {
+    "date": "February 28, 2025",
+    "time": "06:00 PM",
+    "topic": "Automated certificate management",
+    "presentation": "Vincent Roy"
+  },
+  {
+    "date": "January 31, 2025",
+    "time": "06:00 PM",
+    "topic": "NeoVIM",
+    "presentation": "Khoa Dien"
+  }
+]
