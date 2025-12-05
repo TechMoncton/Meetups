@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-12-13",
+    "time": "18:00",
+    "topic": [
+      "Part 2: Building a Self-Driing RC w/ TensorFlow Raspberry Pi"
+    ],
+    "presentation": ["Michael Go"]
+  },
+  {
+    "date": "2024-11-22",
+    "time": "18:00",
+    "topic": [
+      "Filling the Bus: Battle-tested processes for building a team"
+    ],
+    "presentation": ["Adam MacDonald"]
+  },
+  {
+    "date": "2024-10-18",
+    "time": "18:00",
+    "topic": [
+      "Running LLM in my basement server",
+      "UX & UI mistakes in local apps & how to avoid them",
+      "Choosing the right strategy for your API Pagination"
+    ],
+    "presentation": [
+      "Michael Go",
+      "Valentina Litvinova",
+      "Yannick Dufils"
+    ]
+  }
+]
