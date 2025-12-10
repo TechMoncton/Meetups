@@ -1,7 +1,7 @@
 Date: December 05, 2025
 Time: 06:30 PM
-Topic: Part 2: Building a Dataflow AI Orchestration Tool
-Presentation: Simon Gauvin
+Topic: The key features of the Go programming language
+Presentation: Vincent Roy
 
 Date: November 07, 2025
 Time: 06:30 PM
@@ -16,21 +16,21 @@ Presentation: Simon Gauvin
 Date: September 05, 2025
 Time: 06:00 PM
 Topic: How to Ace Your Technical Interviews
-Presentation:  Michael Go
+Presentation: Michael Go
 
 Date: June 27, 2025
 Time: 06:00 PM
 Topic: Nor'Easter Robot Combat Club
-Presentation: Eric Robichaud 
+Presentation: Eric Robichaud
 
 Date: May 30, 2025
 Time: 06:00 PM
-Topic: Kubernetes 
+Topic: Kubernetes
 Presentation: Dave Waldrum
 
 Date: April 25, 2025
 Time: 06:00 PM
-Topic: Easter eggs that you made 
+Topic: Easter eggs that you made
 Presentation: Michael Go
 
 Date: March 28, 2025
@@ -40,7 +40,7 @@ Presentation: Michael Go
 
 Date: February 28, 2025
 Time: 06:00 PM
-Topic: Automated certificate management 
+Topic: Automated certificate management
 Presentation: Vincent Roy
 
 Date: January 31, 2025
