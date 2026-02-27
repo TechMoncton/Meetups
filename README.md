@@ -51,3 +51,50 @@ A friendly, inclusive meetup for Moncton’s tech and developer community to con
 - **Can I bring a guest**: Yes, guests are welcome.  
 - **Is there parking**: Venn Innovation has ample parking out front.  
 - **Accessibility**: If you have accessibility needs, message the organizers on Discord so we can help.
+
+---
+
+## Scripts
+
+### `scripts/add-meetup.py`
+
+Adds a new meetup entry to the appropriate year's JSON and MD files. Creates the year directory and files if they don't exist yet.
+
+```
+python3 scripts/add-meetup.py [--date yyyy-mm-dd] [--time hh:mmam/pm] <topic> <presenter> [<presenter> ...]
+```
+
+**Arguments**
+
+| Argument | Required | Default | Description |
+|---|---|---|---|
+| `topic` | yes | — | Talk title, as a quoted string |
+| `presenter` | yes | — | One or more presenter names, each quoted |
+| `--date` | no | Next first Friday of the month | Date in `yyyy-mm-dd` format |
+| `--time` | no | `6:30pm` | Time in `h:mmam/pm` format |
+
+**Examples**
+
+```bash
+# Add a talk for the next first Friday at 6:30 PM
+python3 scripts/add-meetup.py "My crazy topic" "Alex Hart"
+
+# Multiple presenters
+python3 scripts/add-meetup.py "Panel discussion" "Alex Hart" "Michael Go" "Vincent Roy"
+
+# Explicit date and time
+python3 scripts/add-meetup.py --date 2026-05-01 --time 7:00pm "My crazy topic" "Alex Hart"
+
+# Explicit date only (uses default 6:30 PM)
+python3 scripts/add-meetup.py --date 2026-06-05 "Summer lightning talks" "Michael Go"
+```
+
+**Running the tests**
+
+The pure helper functions have doctests. Run them with:
+
+```bash
+python3 -m doctest scripts/add-meetup.py
+```
+
+Add `-v` for verbose output showing each test case.
