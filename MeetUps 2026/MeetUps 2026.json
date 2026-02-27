@@ -1,5 +1,11 @@
 [
   {
+    "date": "March 06, 2025",
+    "time": "06:30 PM",
+    "topic": "How to Ace Your Technical Interviews",
+    "presentation": "Michael Go"
+  },
+  {
     "date": "February 06, 2025",
     "time": "06:30 PM",
     "topic": "How Okta ships software",
