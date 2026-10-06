@@ -1,3 +1,28 @@
+Date: October 02, 2026
+Time: 06:30 PM
+Topic: The history of Rogue like games
+Presentation: Jay
+
+Date: September 11, 2026
+Time: 06:30 PM
+Topic: Random Access Memories
+Presentation: Julien Richard
+
+Date: August 07, 2026
+Time: 06:30 PM
+Topic: No theme this time
+Presentation: 
+
+Date: July 03, 2026
+Time: 06:30 PM
+Topic: Migrating from SQL Server to Azure Data Explorer
+Presentation: @@@
+
+Date: June 05, 2026
+Time: 06:30 PM
+Topic: Fortune Tiger: A Tale of Subdomain Takeover
+Presentation: Alexander Scheibler
+
 Date: May 01, 2026
 Time: 07:00 PM
 Topic: A talk on the Signal Protocol

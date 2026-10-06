@@ -1,5 +1,35 @@
 [
   {
+    "date": "October 02, 2026",
+    "time": "06:30 PM",
+    "topic": "The history of Rogue like games",
+    "presentation": "Jay"
+  },
+  {
+    "date": "September 11, 2026",
+    "time": "06:30 PM",
+    "topic": "Random Access Memories",
+    "presentation": "Julien Richard"
+  },
+  {
+    "date": "August 07, 2026",
+    "time": "06:30 PM",
+    "topic": "No theme this time",
+    "presentation": ""
+  },
+  {
+    "date": "July 03, 2026",
+    "time": "06:30 PM",
+    "topic": "Migrating from SQL Server to Azure Data Explorer",
+    "presentation": "@@@"
+  },
+  {
+    "date": "June 05, 2026",
+    "time": "06:30 PM",
+    "topic": "Fortune Tiger: A Tale of Subdomain Takeover",
+    "presentation": "Alexander Scheibler"
+  },
+  {
     "date": "May 01, 2026",
     "time": "07:00 PM",
     "topic": "A talk on the Signal Protocol",
